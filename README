@@ -1,0 +1,9 @@
+This is a visualization of the NHL Draft's first round from 1990 to 2011.
+
+It is written in Processing.
+
+This code should run, as is, except you need to create the font for the file. You can do that in Processing (http://processing.org). Open the file in Processing, go to 'Tools' and select 'Create Font.' There you should create 'Helvetica Neue' size 48. It will return a .vlw file. Create a file named "data" and put it in the same directory as the program. 
+
+Or you can view it running on Processing.js at http://alvinschang.com/projects/NHLFirstRound.php
+
+Questions? E-mail me. AlvinSChang@gmail.com.
